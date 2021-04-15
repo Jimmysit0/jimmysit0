@@ -4,7 +4,7 @@
 
 <p align="center">
   <samp>
-     Average human who enjoy lisps. 
+     Average human who enjoy lisps. Oh, and also functional programming.
   </samp>
 </p>
 
@@ -12,7 +12,9 @@
   <summary><b>:dango:</b></summary>
 <p align="center">
   <samp>
-    <a href="https://www.braveclojure.com/">clj</a> 🞘
+    <a href="https://www.braveclojure.com/">clojure</a> 🞘 
+    <a href="https://github.com/Jimmysit0/sumibi">emacs</a> 🞘
+    <a href="https://github.com/Jimmysit0/jfetch">fetch</a>
   <samp>
 </p>
 </details>
