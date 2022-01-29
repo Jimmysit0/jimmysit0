@@ -9,7 +9,7 @@
   <samp>
     <a href="https://github.com/Jimmysit0/robot">discord-bot</a> 🞘
     <a href="https://github.com/Jimmysit0/sumibi">emacs</a> 🞘
-    <a href="https://github.com/Jimmysit0/jfetch">fetch</a> �
+    <a href="https://github.com/Jimmysit0/jfetch">fetch</a> 
   <samp>
 </p>
 </details>
